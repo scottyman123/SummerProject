@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Github/SummerProject/SummerProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Github/SummerProject/SummerProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Github/SummerProject/SummerProject/Content/ThirdPerson/Input/Actions/IA_Grow.uasset",
+				"E:/Github/SummerProject/SummerProject/Content/ThirdPerson/Input/Actions/IA_originalscale.uasset",
+				"E:/Github/SummerProject/SummerProject/Content/ThirdPerson/Input/Actions/IA_Shrink.uasset",
 				"E:/Unrea Engine Projects/SummerProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
