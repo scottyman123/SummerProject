@@ -4366,3 +4366,64 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.19-14.58.06:377][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7878.068359
 [2026.05.19-14.58.07:377][659]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.19-14.58.07:378][659]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7878.735352, Update Interval: 322.850433
+[2026.05.19-15.04.02:765][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8234.461914
+[2026.05.19-15.04.03:766][728]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.04.03:766][728]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8235.128906, Update Interval: 341.146881
+[2026.05.19-15.06.13:732][118]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C35650B600) on the [0x000007C336A22300, 3D] queue has not completed after 5.000002 seconds.
+[2026.05.19-15.06.26:768][157]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C3D31C9D80) on the [0x000007C336A22300, 3D] queue has not completed after 5.000057 seconds.
+[2026.05.19-15.07.30:748][349]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C3D32E5400) on the [0x000007C336A22300, 3D] queue has not completed after 5.000163 seconds.
+[2026.05.19-15.07.30:794][349]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C3D3298F80) on the [0x000007C336A22800, Compute] queue has not completed after 5.000507 seconds.
+[2026.05.19-15.10.32:149][893]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8623.833008
+[2026.05.19-15.10.33:149][896]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.10.33:149][896]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8624.500000, Update Interval: 319.997559
+[2026.05.19-15.16.49:541][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9001.198242
+[2026.05.19-15.16.50:542][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.16.50:542][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9001.864258, Update Interval: 335.446655
+[2026.05.19-15.23.05:261][152]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9376.755859
+[2026.05.19-15.23.06:260][155]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.23.06:260][155]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9377.422852, Update Interval: 328.871124
+[2026.05.19-15.23.11:080][170]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C356549680) on the [0x000007C336A22300, 3D] queue has not completed after 5.000001 seconds.
+[2026.05.19-15.23.11:080][170]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C3D3754280) on the [0x000007C336A22800, Compute] queue has not completed after 5.000001 seconds.
+[2026.05.19-15.23.55:933][304]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C35654C780) on the [0x000007C336A22300, 3D] queue has not completed after 5.000114 seconds.
+[2026.05.19-15.23.55:934][305]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C356544980) on the [0x000007C336A22800, Compute] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.25.18:941][553]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C356548180) on the [0x000007C336A22300, 3D] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.25.18:942][553]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C35654B980) on the [0x000007C336A22800, Compute] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.27.01:339][861]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C35654E000) on the [0x000007C336A22300, 3D] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.27.01:340][861]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C35650A480) on the [0x000007C336A22800, Compute] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.28.03:299][ 46]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C356547000) on the [0x000007C336A22300, 3D] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.28.03:301][ 46]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C356549680) on the [0x000007C336A22800, Compute] queue has not completed after 5.000001 seconds.
+[2026.05.19-15.29.13:977][258]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9745.434570
+[2026.05.19-15.29.14:978][261]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.29.14:978][261]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9746.101562, Update Interval: 301.063873
+[2026.05.19-15.32.20:671][819]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C35654E700) on the [0x000007C336A22300, 3D] queue has not completed after 5.000001 seconds.
+[2026.05.19-15.32.20:999][819]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C35654B280) on the [0x000007C336A22800, Compute] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.35.00:353][297]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10091.764648
+[2026.05.19-15.35.01:353][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.35.01:354][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10092.430664, Update Interval: 349.267853
+[2026.05.19-15.35.33:021][396]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C356543100) on the [0x000007C336A22300, 3D] queue has not completed after 5.000106 seconds.
+[2026.05.19-15.35.33:022][396]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C35654C780) on the [0x000007C336A22800, Compute] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.40.15:053][241]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C356546C80) on the [0x000007C336A22300, 3D] queue has not completed after 5.000001 seconds.
+[2026.05.19-15.40.15:054][242]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C35654DC80) on the [0x000007C336A22800, Compute] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.41.48:068][520]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10499.435547
+[2026.05.19-15.41.49:068][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.41.49:068][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10500.102539, Update Interval: 314.760590
+[2026.05.19-15.45.06:184][115]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C3D28F8C00) on the [0x000007C336A22300, 3D] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.45.06:430][116]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C3D372C780) on the [0x000007C336A22800, Compute] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.45.16:616][146]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C3D3728880) on the [0x000007C336A22300, 3D] queue has not completed after 5.000024 seconds.
+[2026.05.19-15.45.16:766][146]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C3561DCB00) on the [0x000007C336A22800, Compute] queue has not completed after 5.000000 seconds.
+[2026.05.19-15.47.37:448][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10848.788086
+[2026.05.19-15.47.38:449][571]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.47.38:449][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10849.454102, Update Interval: 339.174774
+[2026.05.19-15.48.28:046][720]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.19-15.49.03:800][827]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C356548880) on the [0x000007C336A22300, 3D] queue has not completed after 5.000007 seconds.
+[2026.05.19-15.49.03:801][828]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C35654A100) on the [0x000007C336A22800, Compute] queue has not completed after 5.000001 seconds.
+[2026.05.19-15.53.53:505][696]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11224.826172
+[2026.05.19-15.53.54:506][699]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.53.54:506][699]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11225.492188, Update Interval: 302.922455
+[2026.05.19-15.55.01:882][902]LogD3D12RHI: Warning: GPU timeout: A payload (0x000007C35654C400) on the [0x000007C336A22300, 3D] queue has not completed after 5.000633 seconds.
+[2026.05.19-15.59.54:888][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11586.185547
+[2026.05.19-15.59.55:888][783]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.59.55:888][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11586.852539, Update Interval: 336.704620
+[2026.05.19-16.06.30:940][968]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11982.160156
+[2026.05.19-16.06.31:940][971]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-16.06.31:940][971]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11982.826172, Update Interval: 314.042786
